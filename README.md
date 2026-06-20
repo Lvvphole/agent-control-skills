@@ -1,4 +1,4 @@
-# agent-control-skills
+# Harness Engineering Skills
 
 A harness-engineering Agent Skills package for controlling AI coding agents with repo-safe execution boundaries, role separation, evidence gates, escalation rules, memory governance, and release controls.
 
