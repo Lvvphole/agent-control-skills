@@ -1,0 +1,14 @@
+# Repository About metadata for Lvvphole/agent-control-skills.
+# Use these values when configuring the GitHub repository sidebar.
+
+name: agent-control-skills
+description: Reusable Agent Skills for auditable, conflict-safe multi-agent workflows with evidence gates, role separation, and deterministic release controls.
+homepage: ""
+topics:
+  - agent-skills
+  - multi-agent
+  - governance
+  - verification
+  - evaluation
+  - release-gates
+  - workflow-automation
